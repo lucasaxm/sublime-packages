@@ -4,8 +4,13 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
 		"Git",
 		"GitGutter",
-		"Package Control"
+		"Package Control",
+		"Theme - Spacegray"
 	]
 }

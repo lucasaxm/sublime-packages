@@ -2,5 +2,6 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "Spacegray Eighties.sublime-theme"
 }
