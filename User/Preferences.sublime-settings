@@ -3,5 +3,7 @@
 	[
 		"Vintage"
 	],
-	"theme": "Spacegray Eighties.sublime-theme"
+	"theme": "Spacegray Eighties.sublime-theme",
+	"hot_exit": false,
+	"word_wrap": true
 }
